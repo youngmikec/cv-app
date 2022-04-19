@@ -1,0 +1,65 @@
+.Sidebar {
+    background-color: rgb(5, 5, 67);
+    color: rgb(255, 255, 255);
+    padding: 2rem 2rem;
+    overflow: scroll;
+    min-height: 100%;
+    flex: 3;
+}
+
+.Main {
+    flex: 9;
+    color: black;
+    margin: 0 auto;
+    width: 80%;
+    padding: 2rem 0 0 0;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+.flex-container {
+    display: flex;
+}
+.flex-row {
+    flex-direction: row;
+}
+.flex-column {
+    flex-direction: column;
+}
+
+.flex-1 {
+    flex: 1;
+}
+.flex-2 {
+    flex: 2;
+}
+.flex-3 {
+    flex: 3;
+}
+.flex-4 {
+    flex: 4;
+}
+.flex-5 {
+    flex: 5;
+}
+.flex-6 {
+    flex: 6;
+}
+.flex-7 {
+    flex: 7;
+}
+.flex-8 {
+    flex: 8;
+}
+
+.profile-img{
+    background-image: url('../assets/img/Mike-profile.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 100%;
+}

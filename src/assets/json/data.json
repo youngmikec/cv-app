@@ -1,0 +1,72 @@
+{
+    "fullName": "Ozor Michael Chisom",
+    "address": "No 47 AnikeUgwu stree Ifo Layout Abakpa Nike Enugu",
+    "phone": "08108816975",
+    "email": "michaelozor15@gmail.com",
+    "bio": "Experienced Frontend Web Developer focused on smart product engineering using agile methods. With a strong drive for excellence through positive thinking. Well-rounded, culturally aware professional with the ability to relate with diverse clients with various business needs. Highly skilled in solving technical, financial, and business problems for clients. Improving lives one code at a time!",
+    "skills": [
+        {
+            "title": "Javascript",
+            "description": ""
+        },
+        {
+            "title": "Angular",
+            "description": ""
+        },
+        {
+            "title": "Reactjs",
+            "description": ""
+        },
+        {
+            "title": "Nodejs",
+            "description": ""
+        },
+        {
+            "title": "HTML",
+            "description": ""
+        },
+        {
+            "title": "CSS",
+            "description": ""
+        },
+        {
+            "title": "Graphql",
+            "description": ""
+        }
+    ],
+    "experience": [
+        {
+            "companyName": "Peacegroup Technologies",
+            "role": "Angular frontend software engineer",
+            "description": "I developed ERP console applications using to manage and organize the work flow of staff and customers. Improving productivity and efficiency by 13%",
+            "duration": "November, 2020 - till date",
+            "location": "Enugu State Nigeria" 
+        },
+        {
+            "companyName": "Slate Company (V3C)",
+            "role": "Lead Angular Developer",
+            "description": "At Slate, I worked on improving the user experience and student report card system that increased the efficiency of teachers to produce student termly report.",
+            "duration": "September 2021 - November 2021",
+            "location": "Abuja, FCT - Nigeria" 
+        }
+    ],
+    "education": {
+        "institutions": [
+            {
+                "name": "Federal University of Technology Owerri",
+                "cert": "B.Tech. in Computer Science",
+                "duration": "2017 - till date"
+            },
+            {
+                "name": "COCCI INT'L SECONDARY SCHOOL",
+                "cert": "SSCE",
+                "duration": "2009 - 2015"
+            },
+            {
+                "name": "ST. THERESA'S NURSERY/PRIMARY SCHOOL",
+                "cert": "FSLC",
+                "duration": "2003 - 2009"
+            }
+        ]
+    }
+}
