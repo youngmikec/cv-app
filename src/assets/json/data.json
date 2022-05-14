@@ -1,10 +1,20 @@
 {
     "fullName": "Ozor Michael Chisom",
-    "address": "No 47 AnikeUgwu stree Ifo Layout Abakpa Nike Enugu",
+    "address": "No 47 AnikeUgwu stree Ifo Layout Abakpa Nike Enugu, Enugu state Nigeria.",
     "phone": "08108816975",
     "email": "michaelozor15@gmail.com",
+    "linkedinUrl": "linkedin.com/in/ozor-michael-b5768a186",
+    "githubUrl": "https://github.com/youngmikec",
     "bio": "Experienced Frontend Web Developer focused on smart product engineering using agile methods. With a strong drive for excellence through positive thinking. Well-rounded, culturally aware professional with the ability to relate with diverse clients with various business needs. Highly skilled in solving technical, financial, and business problems for clients. Improving lives one code at a time!",
     "skills": [
+        {
+            "title": "HTML",
+            "description": ""
+        },
+        {
+            "title": "CSS",
+            "description": ""
+        },
         {
             "title": "Javascript",
             "description": ""
@@ -22,11 +32,7 @@
             "description": ""
         },
         {
-            "title": "HTML",
-            "description": ""
-        },
-        {
-            "title": "CSS",
+            "title": "Expressjs",
             "description": ""
         },
         {
@@ -43,11 +49,25 @@
             "location": "Enugu State Nigeria" 
         },
         {
+            "companyName": "Freexit Technologies",
+            "role": "Lead Angular software engineer",
+            "description": "At Freexit Technologies, I was able to develop an ERP (Enterprise Resource Planner) to manage both customers, products, orders efficient using angular best practices with improved performance and load time.",
+            "duration": "June, 2021 - February 2022",
+            "location": "Enugu State Nigeria" 
+        },
+        {
             "companyName": "Slate Company (V3C)",
             "role": "Lead Angular Developer",
             "description": "At Slate, I worked on improving the user experience and student report card system that increased the efficiency of teachers to produce student termly report.",
             "duration": "September 2021 - November 2021",
             "location": "Abuja, FCT - Nigeria" 
+        },
+        {
+            "companyName": "Biofort Agro",
+            "role": "Angular Developer",
+            "description": "I was tasked to develop a nice and interactive UI for agricultural products ecommerce.",
+            "duration": "April 2021 - June 2021",
+            "location": "Ibadan - Nigeria" 
         }
     ],
     "education": {

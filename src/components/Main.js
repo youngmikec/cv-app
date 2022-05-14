@@ -5,7 +5,6 @@ import Education from './Education';
 
 const Main = ({userData}) => {
     const { bio, experience, education:{institutions}, fullName } = userData;
-    console.log('experience', experience);
     return (
         <div className='Main'>
             <Bio bio={bio} fullName={fullName} />

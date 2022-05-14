@@ -5,6 +5,7 @@ import data from './assets/json/data.json'
 
 
 const fetchData = () => {
+  // return JSON.parse(data);
   return data;
 }
 

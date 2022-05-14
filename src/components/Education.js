@@ -1,7 +1,6 @@
 import './styles.css';
 
 const Education = ({education}) => {
-    console.log(education);
     const { name, duration, cert } = education;
     return (
         <div className="flex-container flex-row">

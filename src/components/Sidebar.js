@@ -4,7 +4,7 @@ import Profile from './Profile';
 const Sidebar = ({userData}) => {
     return(
         <div className='Sidebar'>
-            <Profile />
+            <Profile userData={userData}  />
         </div>
     )
 }
